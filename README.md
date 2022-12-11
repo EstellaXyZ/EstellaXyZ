@@ -1,8 +1,8 @@
 ## 👋 Olá, eu sou a Estella, Programadora, Compositora e Designer!
 <div align="center">
-  <a href="https://github.com/CruellaXyZ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CruellaXyZ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CruellaXyZ&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/EstellaXyZ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstellaXyZ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstellaXyZ&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Estella-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
@@ -24,6 +24,6 @@
  
 <div> 
   
-  ![Snake animation](https://github.com/CruellaXyZ/CruellaXyZ/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/EstellaXyZ/EstellaXyZ/blob/output/github-contribution-grid-snake.svg)
   
 </div>
